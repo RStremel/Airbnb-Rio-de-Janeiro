@@ -14,7 +14,11 @@
 * Exploratory analysis: used graphical packages such as `matplotlib` and `seaborn` to find correlations between features and `folium` to show the distribution of available accomodations and price. Here are some examples of these graphs and maps:
 
 ![alt text](https://i.imgur.com/4dfOz1d.png)
+
 ![alt text](https://i.imgur.com/m0FtBCw.png)
+
 ![alt text](https://i.imgur.com/ULgdR0X.png)
+
 ![alt text](https://i.imgur.com/91PygvY.png)
+
 ![alt text](https://i.imgur.com/A9nCfky.png)
