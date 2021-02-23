@@ -10,8 +10,9 @@
 **Packages:** pandas, numpy, matplotlib, seaborn, folium
 
 ## Steps
-* Data cleaning: checked for missing values, removed irrelevant data, filled nulled values with relevant data, converted data to correct format and treated outliers.
-* Exploratory analysis: used graphical packages such as `matplotlib` and `seaborn` to find correlations between features and `folium` to show the distribution of available accomodations and price. Here are some examples of these graphs and maps:
+* Data cleaning and feature engineering: checked for missing values, removed irrelevant data, filled nulled values with relevant data, converted data to correct format, treated outliers and created new features based on existing ones.
+* Exploratory analysis: used graphical packages such as `matplotlib` and `seaborn` to find correlations between features and `folium` to show the distribution of available accomodations and price. Some examples of these graphs and maps can be seen below.
+* Conclusion: drew some conclusions with the information found that could be useful for anyone trying to rent a place to stay in Rio, or for anyone trying to rent their place.
 
 ![alt text](https://i.imgur.com/4dfOz1d.png)
 
