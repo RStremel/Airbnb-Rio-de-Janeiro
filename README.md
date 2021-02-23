@@ -1,4 +1,7 @@
 # Airbnb Rio de Janeiro - January 2021
+
+*Please refer to this [nbviewer link](https://nbviewer.jupyter.org/github/RStremel/Airbnb-Rio-de-Janeiro/blob/main/Airbnb%20Rio%20de%20Janeiro%20-%20Data%20Analysis.ipynb#Exploratory-Data-Analysis) to use the interactive function of both folium maps used in this notebook.*
+
 ### Data exploration and analysis of the Airbnb dataset for the city of Rio de Janeiro
 
 * Analysis of price variation between regions and types of accomodation.
