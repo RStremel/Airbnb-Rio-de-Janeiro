@@ -1,5 +1,9 @@
 # Airbnb Rio de Janeiro Data Science Project
 
+https://i.imgur.com/y4lPz8y.jpeg
+
+<src="https://i.imgur.com/y4lPz8y.jpeg">
+
 *Please refer to this [nbviewer link](https://nbviewer.org/github/RStremel/Airbnb-Rio-de-Janeiro/blob/main/notebooks/airbnb-listing-price-analysis-and-prediction-for-rio-de-janeiro.ipynb) link to use the interactive function of the folium map created in this notebook.*
 
 ### Project Overview:
