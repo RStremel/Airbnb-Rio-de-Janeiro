@@ -1,6 +1,6 @@
 # Airbnb Rio de Janeiro Data Science Project
 
-*Please refer to this [nbviewer link](https://nbviewer.jupyter.org/github/RStremel/Airbnb-Rio-de-Janeiro/blob/main/Airbnb%20Rio%20de%20Janeiro%20-%20Data%20Analysis.ipynb#Exploratory-Data-Analysis) link to use the interactive function of the folium map created in this notebook.*
+*Please refer to this [nbviewer link]([https://nbviewer.jupyter.org/github/RStremel/Airbnb-Rio-de-Janeiro/blob/main/Airbnb%20Rio%20de%20Janeiro%20-%20Data%20Analysis.ipynb#Exploratory-Data-Analysis](https://nbviewer.org/github/RStremel/Airbnb-Rio-de-Janeiro/blob/main/notebooks/airbnb-listing-price-analysis-and-prediction-for-rio-de-janeiro.ipynb)) link to use the interactive function of the folium map created in this notebook.*
 
 ### Project Overview:
 The goal of this project is to analyze Airbnb listing data for Rio de Janeiro to uncover insights about the factors that influence listing prices and build a predictive model to estimate the price of new listings. This can provide valuable information for both hosts looking to optimize their pricing strategy and travelers searching for accommodations within their budget.
